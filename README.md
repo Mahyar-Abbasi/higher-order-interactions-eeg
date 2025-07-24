@@ -20,6 +20,10 @@ Moreover, mne and hints package need to be installed:
 
 ## HiNTS Package Installation(Higher-Order Interactions in N-Dimensional Time Series):
 
+For more detailed examples and tutorials, please refer to authors' source [hints package](https://github.com/aminakhshi/hints/tree/main#) and the corresponding papers:  
+- **Akhshi et al. (2024):** [GitHub Link](https://github.com/aminakhshi/hints/tree/main#)  
+- **Tabar et al. (2024):** [PRX Paper](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.011050)
+
 To install **HiNTS**, you can either use `pip` or install it directly from the source.
 
 Option 1: Install via pip
@@ -34,5 +38,3 @@ cd hints
 python setup.py install
 ```
 
-For more information, please refer to the full documentation by the authors:
-https://github.com/aminakhshi/hints.git
